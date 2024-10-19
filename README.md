@@ -1,5 +1,5 @@
 # Bike Store Sales Analysis - Power BI Dashboard
-![Dashboard Preview]((https://github.com/joaovictorgribeiro/Adventure_Power_BI/blob/main/Dash.png)
+![Dashboard Preview](https://github.com/joaovictorgribeiro/Adventure_Power_BI/blob/main/Dash.png)
 ## Overview
 
 This repository contains a comprehensive sales analysis of a bike store, developed using Power BI. The project delivers in-depth insights into regional performance, product trends, customer segmentation, return rates, and future sales predictions through time series analysis. The interactive 4-page dashboard provides actionable data to inform business decisions and strategic planning.
